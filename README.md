@@ -1,4 +1,5 @@
 ﻿# Методы программирования 2: Множества на основе битовых полей
+hello
 
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
